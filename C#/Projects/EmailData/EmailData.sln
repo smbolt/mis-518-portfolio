@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailData", "EmailData\EmailData.csproj", "{8804CAC5-4735-48B2-97E2-A5218F82A392}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - App", "01 - App", "{1474AA04-AE97-4433-BF3F-945806A6222B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8804CAC5-4735-48B2-97E2-A5218F82A392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8804CAC5-4735-48B2-97E2-A5218F82A392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8804CAC5-4735-48B2-97E2-A5218F82A392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8804CAC5-4735-48B2-97E2-A5218F82A392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8804CAC5-4735-48B2-97E2-A5218F82A392} = {1474AA04-AE97-4433-BF3F-945806A6222B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D351612-C3E2-4A3E-B345-AC2B369C431F}
+	EndGlobalSection
+EndGlobal
